@@ -1,0 +1,44 @@
+#practica 5
+#cerna luna jose juan
+#vazquez perez ignacio david
+
+print("                                             practica 05");
+print ("                                        cerna luna jose juan")
+print ("                                    vazquez perez ignacio david");
+print("                              ___________________________________________")
+print("")
+a=5
+b=25
+c=10
+X1=a+b+c
+X2=(b*c)+a
+X3=(b/c)+b
+X4=(b%c)+a
+X5=(a+b)//c
+X6=(b/c)+c
+
+C1=8+(5*3)+((9*6)/2)
+C2=-2**3
+C3=(33+(3*4))/8
+C4=(2**55)*3
+C5=3+9*(18-((4**2)))
+C6=(16*6)-(3*2)
+print("                                            ejercicio no.1")
+print("")
+print("El resultado de X1 es -->", X1,"<--");
+print("El resultado de X2 es -->", X2,"<--");
+print("El resultado de X3 es -->", X3,"<--");
+print("El resultado de X4 es -->", X4,"<--");
+print("El resultado de X5 es -->", X5,"<--");
+print("El resultado de X6 es -->", X6,"<--");
+
+print("                                          _________._________")
+print("")
+print("                                            ejercicio no.2")
+print("")
+print("El resultado de C1 es -->", C1,"<--");
+print("El resultado de C2 es -->", C2,"<--");
+print("El resultado de C3 es -->", C3,"<--");
+print("El resultado de C4 es -->", C4,"<--");
+print("El resultado de C5 es -->", C5,"<--");
+print("El resultado de C6 es -->", C6,"<--");
